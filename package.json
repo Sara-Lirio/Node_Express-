@@ -1,0 +1,25 @@
+{
+  "name": "node_express_mini_projeto",
+  "version": "1.0.0",
+  "description": "Ferramenta que auxilia o desenvolvedor no dia a dia com CSS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sara-Lirio/Node_Express-.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Sara Lirio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sara-Lirio/Node_Express-/issues"
+  },
+  "homepage": "https://github.com/Sara-Lirio/Node_Express-#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
