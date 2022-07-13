@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/Sara-Lirio/Node_Express-#readme",
   "dependencies": {
+    "chalk": "^5.0.1",
     "prompt-sync": "^4.2.0",
     "prompt-sync-history": "^1.0.1"
   }
